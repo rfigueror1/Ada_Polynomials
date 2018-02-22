@@ -1,0 +1,26 @@
+V "GNAT Lib v2017"
+M P W=b
+A -gnatA
+A -mtune=generic
+A -march=x86-64
+P ZX
+
+RN
+RV NO_IMPLEMENTATION_PRAGMAS
+
+U main%b		main.adb		f9e5eb49 NE OO SU
+W polinomial%s		polinomial.adb		polinomial.ali
+
+D main.adb		20180222020256 acf922ab main%b
+D polinomial.ads	20180222020404 551cc9e2 polinomial%s
+D system.ads		20170516105953 6326c08a system%s
+X 1 main.adb
+3U11*Main 3b11 14l5 14t9
+4a4 b{2|3A9} 12m4
+5i4 x{integer} 10m4 12r34
+6i4 y{integer} 11m4 12r36
+X 2 polinomial.ads
+1K9*polinomial 1|1w6 4r7 12r8 2|9e15
+3A9*coefficient(integer)<integer> 1|4r18
+4V13*set_Polynomial{3A9} 1|12s19
+

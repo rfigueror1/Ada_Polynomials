@@ -1,0 +1,30 @@
+<?xml version="1.0"?>
+<Locations >
+  <Project>
+    <vfs_file />
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>/home/ricardo/Documents/Lenguajes programacion/Polinomios/polinomios.gpr</vfs_project>
+      <vfs_file>/home/ricardo/Documents/Lenguajes programacion/Polinomios/src/main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>/home/ricardo/Documents/Lenguajes programacion/Polinomios/polinomios.gpr</vfs_project>
+      <vfs_file>/home/ricardo/Documents/Lenguajes programacion/Polinomios/src/messages_to_user.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>/home/ricardo/Documents/Lenguajes programacion/Polinomios/polinomios.gpr</vfs_project>
+      <vfs_file>/home/ricardo/Documents/Lenguajes programacion/Polinomios/src/messages_to_user.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 4" line=" 15" >
+      <vfs_project>/home/ricardo/Documents/Lenguajes programacion/Polinomios/polinomios.gpr</vfs_project>
+      <vfs_file>/home/ricardo/Documents/Lenguajes programacion/Polinomios/src/messages_to_user.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project />
+      <vfs_file />
+    </file_marker>
+    <file_marker current="true" column=" 3" line=" 3" >
+      <vfs_project>/home/ricardo/Documents/Lenguajes programacion/Polinomios/polinomios.gpr</vfs_project>
+      <vfs_file>/home/ricardo/Documents/Lenguajes programacion/Polinomios/src/polinomial.ads</vfs_file>
+    </file_marker>
+  </Project>
+</Locations>
