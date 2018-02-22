@@ -7,28 +7,28 @@ with Ada.Exceptions;
 
 package body ada_main is
 
-   E077 : Short_Integer; pragma Import (Ada, E077, "system__os_lib_E");
-   E015 : Short_Integer; pragma Import (Ada, E015, "system__soft_links_E");
-   E025 : Short_Integer; pragma Import (Ada, E025, "system__exception_table_E");
-   E072 : Short_Integer; pragma Import (Ada, E072, "ada__io_exceptions_E");
-   E057 : Short_Integer; pragma Import (Ada, E057, "ada__strings_E");
-   E040 : Short_Integer; pragma Import (Ada, E040, "ada__containers_E");
-   E027 : Short_Integer; pragma Import (Ada, E027, "system__exceptions_E");
-   E019 : Short_Integer; pragma Import (Ada, E019, "system__secondary_stack_E");
-   E059 : Short_Integer; pragma Import (Ada, E059, "ada__strings__maps_E");
-   E063 : Short_Integer; pragma Import (Ada, E063, "ada__strings__maps__constants_E");
-   E045 : Short_Integer; pragma Import (Ada, E045, "interfaces__c_E");
-   E083 : Short_Integer; pragma Import (Ada, E083, "system__object_reader_E");
-   E052 : Short_Integer; pragma Import (Ada, E052, "system__dwarf_lines_E");
-   E039 : Short_Integer; pragma Import (Ada, E039, "system__traceback__symbolic_E");
+   E075 : Short_Integer; pragma Import (Ada, E075, "system__os_lib_E");
+   E013 : Short_Integer; pragma Import (Ada, E013, "system__soft_links_E");
+   E023 : Short_Integer; pragma Import (Ada, E023, "system__exception_table_E");
+   E070 : Short_Integer; pragma Import (Ada, E070, "ada__io_exceptions_E");
+   E055 : Short_Integer; pragma Import (Ada, E055, "ada__strings_E");
+   E038 : Short_Integer; pragma Import (Ada, E038, "ada__containers_E");
+   E025 : Short_Integer; pragma Import (Ada, E025, "system__exceptions_E");
+   E017 : Short_Integer; pragma Import (Ada, E017, "system__secondary_stack_E");
+   E057 : Short_Integer; pragma Import (Ada, E057, "ada__strings__maps_E");
+   E061 : Short_Integer; pragma Import (Ada, E061, "ada__strings__maps__constants_E");
+   E043 : Short_Integer; pragma Import (Ada, E043, "interfaces__c_E");
+   E081 : Short_Integer; pragma Import (Ada, E081, "system__object_reader_E");
+   E050 : Short_Integer; pragma Import (Ada, E050, "system__dwarf_lines_E");
+   E037 : Short_Integer; pragma Import (Ada, E037, "system__traceback__symbolic_E");
    E103 : Short_Integer; pragma Import (Ada, E103, "ada__tags_E");
    E101 : Short_Integer; pragma Import (Ada, E101, "ada__streams_E");
    E115 : Short_Integer; pragma Import (Ada, E115, "system__file_control_block_E");
    E114 : Short_Integer; pragma Import (Ada, E114, "system__finalization_root_E");
    E112 : Short_Integer; pragma Import (Ada, E112, "ada__finalization_E");
    E111 : Short_Integer; pragma Import (Ada, E111, "system__file_io_E");
-   E008 : Short_Integer; pragma Import (Ada, E008, "ada__text_io_E");
-   E005 : Short_Integer; pragma Import (Ada, E005, "polinomial_E");
+   E099 : Short_Integer; pragma Import (Ada, E099, "ada__text_io_E");
+   E135 : Short_Integer; pragma Import (Ada, E135, "polinomial_E");
 
    Local_Priority_Specific_Dispatching : constant String := "";
    Local_Interrupt_States : constant String := "";
@@ -37,7 +37,7 @@ package body ada_main is
 
    procedure finalize_library is
    begin
-      E008 := E008 - 1;
+      E099 := E099 - 1;
       declare
          procedure F1;
          pragma Import (Ada, F1, "ada__text_io__finalize_spec");
@@ -144,33 +144,33 @@ package body ada_main is
 
       System.Soft_Links'Elab_Spec;
       System.Exception_Table'Elab_Body;
-      E025 := E025 + 1;
+      E023 := E023 + 1;
       Ada.Io_Exceptions'Elab_Spec;
-      E072 := E072 + 1;
+      E070 := E070 + 1;
       Ada.Strings'Elab_Spec;
-      E057 := E057 + 1;
+      E055 := E055 + 1;
       Ada.Containers'Elab_Spec;
-      E040 := E040 + 1;
+      E038 := E038 + 1;
       System.Exceptions'Elab_Spec;
-      E027 := E027 + 1;
+      E025 := E025 + 1;
       System.Soft_Links'Elab_Body;
-      E015 := E015 + 1;
+      E013 := E013 + 1;
       System.Os_Lib'Elab_Body;
-      E077 := E077 + 1;
+      E075 := E075 + 1;
       Ada.Strings.Maps'Elab_Spec;
       Ada.Strings.Maps.Constants'Elab_Spec;
-      E063 := E063 + 1;
+      E061 := E061 + 1;
       Interfaces.C'Elab_Spec;
       System.Secondary_Stack'Elab_Body;
-      E019 := E019 + 1;
-      E059 := E059 + 1;
-      E045 := E045 + 1;
+      E017 := E017 + 1;
+      E057 := E057 + 1;
+      E043 := E043 + 1;
       System.Object_Reader'Elab_Spec;
       System.Dwarf_Lines'Elab_Spec;
-      E052 := E052 + 1;
+      E050 := E050 + 1;
       System.Traceback.Symbolic'Elab_Body;
-      E039 := E039 + 1;
-      E083 := E083 + 1;
+      E037 := E037 + 1;
+      E081 := E081 + 1;
       Ada.Tags'Elab_Spec;
       Ada.Tags'Elab_Body;
       E103 := E103 + 1;
@@ -186,8 +186,8 @@ package body ada_main is
       E111 := E111 + 1;
       Ada.Text_Io'Elab_Spec;
       Ada.Text_Io'Elab_Body;
-      E008 := E008 + 1;
-      E005 := E005 + 1;
+      E099 := E099 + 1;
+      E135 := E135 + 1;
    end adainit;
 
    procedure Ada_Main_Program;
@@ -223,10 +223,10 @@ package body ada_main is
    end;
 
 --  BEGIN Object file/option list
-   --   /home/ricardo/Documents/Lenguajes programacion/Polinomios/obj/polinomial.o
-   --   /home/ricardo/Documents/Lenguajes programacion/Polinomios/obj/main.o
-   --   -L/home/ricardo/Documents/Lenguajes programacion/Polinomios/obj/
-   --   -L/home/ricardo/Documents/Lenguajes programacion/Polinomios/obj/
+   --   /home/toto/Desktop/2do_Semestre/Lenguages_Progr/Ada/Ada_Polynomials/Polinomios/obj/polinomial.o
+   --   /home/toto/Desktop/2do_Semestre/Lenguages_Progr/Ada/Ada_Polynomials/Polinomios/obj/main.o
+   --   -L/home/toto/Desktop/2do_Semestre/Lenguages_Progr/Ada/Ada_Polynomials/Polinomios/obj/
+   --   -L/home/toto/Desktop/2do_Semestre/Lenguages_Progr/Ada/Ada_Polynomials/Polinomios/obj/
    --   -L/usr/gnat/lib/gcc/x86_64-pc-linux-gnu/6.3.1/adalib/
    --   -static
    --   -lgnat
