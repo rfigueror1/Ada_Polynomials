@@ -1,16 +1,15 @@
 <?xml version="1.0"?>
 <Locations >
-  <Project>
-    <vfs_file>/home/toto/Desktop/2do_Semestre/Lenguages_Progr/Ada/Ada_Polynomials/Polinomios/polinomios.gpr</vfs_file>
+  <Project >
     <file_marker column=" 20" line=" 79" >
       <vfs_project>/home/toto/Desktop/2do_Semestre/Lenguages_Progr/Ada/Ada_Polynomials/Polinomios/polinomios.gpr</vfs_project>
       <vfs_file>/home/toto/Desktop/2do_Semestre/Lenguages_Progr/Ada/Ada_Polynomials/Polinomios/src/main.adb</vfs_file>
     </file_marker>
-    <file_marker column=" 10" line=" 114" >
+    <file_marker column=" 10" line=" 112" >
       <vfs_project>/home/toto/Desktop/2do_Semestre/Lenguages_Progr/Ada/Ada_Polynomials/Polinomios/polinomios.gpr</vfs_project>
       <vfs_file>/home/toto/Desktop/2do_Semestre/Lenguages_Progr/Ada/Ada_Polynomials/Polinomios/src/polinomial.adb</vfs_file>
     </file_marker>
-    <file_marker column=" 35" line=" 19" >
+    <file_marker column=" 35" line=" 17" >
       <vfs_project>/home/toto/Desktop/2do_Semestre/Lenguages_Progr/Ada/Ada_Polynomials/Polinomios/polinomios.gpr</vfs_project>
       <vfs_file>/home/toto/Desktop/2do_Semestre/Lenguages_Progr/Ada/Ada_Polynomials/Polinomios/src/polinomial.adb</vfs_file>
     </file_marker>
@@ -22,43 +21,43 @@
       <vfs_project>/home/toto/Desktop/2do_Semestre/Lenguages_Progr/Ada/Ada_Polynomials/Polinomios/polinomios.gpr</vfs_project>
       <vfs_file>/home/toto/Desktop/2do_Semestre/Lenguages_Progr/Ada/Ada_Polynomials/Polinomios/src/main.adb</vfs_file>
     </file_marker>
-    <file_marker column=" 6" line=" 153" >
+    <file_marker column=" 6" line=" 143" >
       <vfs_project>/home/toto/Desktop/2do_Semestre/Lenguages_Progr/Ada/Ada_Polynomials/Polinomios/polinomios.gpr</vfs_project>
       <vfs_file>/home/toto/Desktop/2do_Semestre/Lenguages_Progr/Ada/Ada_Polynomials/Polinomios/src/polinomial.adb</vfs_file>
     </file_marker>
-    <file_marker column=" 6" line=" 153" >
+    <file_marker column=" 6" line=" 143" >
       <vfs_project>/home/toto/Desktop/2do_Semestre/Lenguages_Progr/Ada/Ada_Polynomials/Polinomios/polinomios.gpr</vfs_project>
       <vfs_file>/home/toto/Desktop/2do_Semestre/Lenguages_Progr/Ada/Ada_Polynomials/Polinomios/src/polinomial.adb</vfs_file>
     </file_marker>
-    <file_marker column=" 6" line=" 153" >
+    <file_marker column=" 6" line=" 143" >
       <vfs_project>/home/toto/Desktop/2do_Semestre/Lenguages_Progr/Ada/Ada_Polynomials/Polinomios/polinomios.gpr</vfs_project>
       <vfs_file>/home/toto/Desktop/2do_Semestre/Lenguages_Progr/Ada/Ada_Polynomials/Polinomios/src/polinomial.adb</vfs_file>
     </file_marker>
-    <file_marker column=" 6" line=" 153" >
+    <file_marker column=" 6" line=" 143" >
       <vfs_project>/home/toto/Desktop/2do_Semestre/Lenguages_Progr/Ada/Ada_Polynomials/Polinomios/polinomios.gpr</vfs_project>
       <vfs_file>/home/toto/Desktop/2do_Semestre/Lenguages_Progr/Ada/Ada_Polynomials/Polinomios/src/polinomial.adb</vfs_file>
     </file_marker>
-    <file_marker column=" 9" line=" 135" >
+    <file_marker column=" 9" line=" 136" >
       <vfs_project>/home/toto/Desktop/2do_Semestre/Lenguages_Progr/Ada/Ada_Polynomials/Polinomios/polinomios.gpr</vfs_project>
       <vfs_file>/home/toto/Desktop/2do_Semestre/Lenguages_Progr/Ada/Ada_Polynomials/Polinomios/src/polinomial.adb</vfs_file>
     </file_marker>
-    <file_marker column=" 6" line=" 153" >
+    <file_marker column=" 6" line=" 143" >
       <vfs_project>/home/toto/Desktop/2do_Semestre/Lenguages_Progr/Ada/Ada_Polynomials/Polinomios/polinomios.gpr</vfs_project>
       <vfs_file>/home/toto/Desktop/2do_Semestre/Lenguages_Progr/Ada/Ada_Polynomials/Polinomios/src/polinomial.adb</vfs_file>
     </file_marker>
-    <file_marker column=" 6" line=" 153" >
+    <file_marker column=" 6" line=" 143" >
       <vfs_project>/home/toto/Desktop/2do_Semestre/Lenguages_Progr/Ada/Ada_Polynomials/Polinomios/polinomios.gpr</vfs_project>
       <vfs_file>/home/toto/Desktop/2do_Semestre/Lenguages_Progr/Ada/Ada_Polynomials/Polinomios/src/polinomial.adb</vfs_file>
     </file_marker>
-    <file_marker column=" 9" line=" 135" >
+    <file_marker column=" 9" line=" 136" >
       <vfs_project>/home/toto/Desktop/2do_Semestre/Lenguages_Progr/Ada/Ada_Polynomials/Polinomios/polinomios.gpr</vfs_project>
       <vfs_file>/home/toto/Desktop/2do_Semestre/Lenguages_Progr/Ada/Ada_Polynomials/Polinomios/src/polinomial.adb</vfs_file>
     </file_marker>
-    <file_marker column=" 6" line=" 153" >
+    <file_marker column=" 6" line=" 143" >
       <vfs_project>/home/toto/Desktop/2do_Semestre/Lenguages_Progr/Ada/Ada_Polynomials/Polinomios/polinomios.gpr</vfs_project>
       <vfs_file>/home/toto/Desktop/2do_Semestre/Lenguages_Progr/Ada/Ada_Polynomials/Polinomios/src/polinomial.adb</vfs_file>
     </file_marker>
-    <file_marker column=" 6" line=" 153" >
+    <file_marker column=" 6" line=" 143" >
       <vfs_project>/home/toto/Desktop/2do_Semestre/Lenguages_Progr/Ada/Ada_Polynomials/Polinomios/polinomios.gpr</vfs_project>
       <vfs_file>/home/toto/Desktop/2do_Semestre/Lenguages_Progr/Ada/Ada_Polynomials/Polinomios/src/polinomial.adb</vfs_file>
     </file_marker>
@@ -66,7 +65,7 @@
       <vfs_project>/home/toto/Desktop/2do_Semestre/Lenguages_Progr/Ada/Ada_Polynomials/Polinomios/polinomios.gpr</vfs_project>
       <vfs_file>/home/toto/Desktop/2do_Semestre/Lenguages_Progr/Ada/Ada_Polynomials/Polinomios/src/polinomial.adb</vfs_file>
     </file_marker>
-    <file_marker column=" 9" line=" 135" >
+    <file_marker column=" 9" line=" 136" >
       <vfs_project>/home/toto/Desktop/2do_Semestre/Lenguages_Progr/Ada/Ada_Polynomials/Polinomios/polinomios.gpr</vfs_project>
       <vfs_file>/home/toto/Desktop/2do_Semestre/Lenguages_Progr/Ada/Ada_Polynomials/Polinomios/src/polinomial.adb</vfs_file>
     </file_marker>
@@ -74,39 +73,39 @@
       <vfs_project>/home/toto/Desktop/2do_Semestre/Lenguages_Progr/Ada/Ada_Polynomials/Polinomios/polinomios.gpr</vfs_project>
       <vfs_file>/home/toto/Desktop/2do_Semestre/Lenguages_Progr/Ada/Ada_Polynomials/Polinomios/src/polinomial.adb</vfs_file>
     </file_marker>
-    <file_marker column=" 9" line=" 135" >
+    <file_marker column=" 9" line=" 136" >
       <vfs_project>/home/toto/Desktop/2do_Semestre/Lenguages_Progr/Ada/Ada_Polynomials/Polinomios/polinomios.gpr</vfs_project>
       <vfs_file>/home/toto/Desktop/2do_Semestre/Lenguages_Progr/Ada/Ada_Polynomials/Polinomios/src/polinomial.adb</vfs_file>
     </file_marker>
-    <file_marker column=" 6" line=" 153" >
+    <file_marker column=" 6" line=" 143" >
       <vfs_project>/home/toto/Desktop/2do_Semestre/Lenguages_Progr/Ada/Ada_Polynomials/Polinomios/polinomios.gpr</vfs_project>
       <vfs_file>/home/toto/Desktop/2do_Semestre/Lenguages_Progr/Ada/Ada_Polynomials/Polinomios/src/polinomial.adb</vfs_file>
     </file_marker>
-    <file_marker column=" 6" line=" 153" >
+    <file_marker column=" 6" line=" 143" >
       <vfs_project>/home/toto/Desktop/2do_Semestre/Lenguages_Progr/Ada/Ada_Polynomials/Polinomios/polinomios.gpr</vfs_project>
       <vfs_file>/home/toto/Desktop/2do_Semestre/Lenguages_Progr/Ada/Ada_Polynomials/Polinomios/src/polinomial.adb</vfs_file>
     </file_marker>
-    <file_marker column=" 6" line=" 153" >
+    <file_marker column=" 6" line=" 143" >
       <vfs_project>/home/toto/Desktop/2do_Semestre/Lenguages_Progr/Ada/Ada_Polynomials/Polinomios/polinomios.gpr</vfs_project>
       <vfs_file>/home/toto/Desktop/2do_Semestre/Lenguages_Progr/Ada/Ada_Polynomials/Polinomios/src/polinomial.adb</vfs_file>
     </file_marker>
-    <file_marker column=" 6" line=" 153" >
+    <file_marker column=" 6" line=" 143" >
       <vfs_project>/home/toto/Desktop/2do_Semestre/Lenguages_Progr/Ada/Ada_Polynomials/Polinomios/polinomios.gpr</vfs_project>
       <vfs_file>/home/toto/Desktop/2do_Semestre/Lenguages_Progr/Ada/Ada_Polynomials/Polinomios/src/polinomial.adb</vfs_file>
     </file_marker>
-    <file_marker column=" 6" line=" 153" >
+    <file_marker column=" 6" line=" 143" >
       <vfs_project>/home/toto/Desktop/2do_Semestre/Lenguages_Progr/Ada/Ada_Polynomials/Polinomios/polinomios.gpr</vfs_project>
       <vfs_file>/home/toto/Desktop/2do_Semestre/Lenguages_Progr/Ada/Ada_Polynomials/Polinomios/src/polinomial.adb</vfs_file>
     </file_marker>
-    <file_marker column=" 6" line=" 153" >
+    <file_marker column=" 6" line=" 143" >
       <vfs_project>/home/toto/Desktop/2do_Semestre/Lenguages_Progr/Ada/Ada_Polynomials/Polinomios/polinomios.gpr</vfs_project>
       <vfs_file>/home/toto/Desktop/2do_Semestre/Lenguages_Progr/Ada/Ada_Polynomials/Polinomios/src/polinomial.adb</vfs_file>
     </file_marker>
-    <file_marker column=" 6" line=" 153" >
+    <file_marker column=" 6" line=" 143" >
       <vfs_project>/home/toto/Desktop/2do_Semestre/Lenguages_Progr/Ada/Ada_Polynomials/Polinomios/polinomios.gpr</vfs_project>
       <vfs_file>/home/toto/Desktop/2do_Semestre/Lenguages_Progr/Ada/Ada_Polynomials/Polinomios/src/polinomial.adb</vfs_file>
     </file_marker>
-    <file_marker column=" 6" line=" 153" >
+    <file_marker column=" 6" line=" 143" >
       <vfs_project>/home/toto/Desktop/2do_Semestre/Lenguages_Progr/Ada/Ada_Polynomials/Polinomios/polinomios.gpr</vfs_project>
       <vfs_file>/home/toto/Desktop/2do_Semestre/Lenguages_Progr/Ada/Ada_Polynomials/Polinomios/src/polinomial.adb</vfs_file>
     </file_marker>
@@ -114,7 +113,7 @@
       <vfs_project>/home/toto/Desktop/2do_Semestre/Lenguages_Progr/Ada/Ada_Polynomials/Polinomios/polinomios.gpr</vfs_project>
       <vfs_file>/home/toto/Desktop/2do_Semestre/Lenguages_Progr/Ada/Ada_Polynomials/Polinomios/src/polinomial.adb</vfs_file>
     </file_marker>
-    <file_marker column=" 27" line=" 6" >
+    <file_marker column=" 55" line=" 3" >
       <vfs_project>/home/toto/Desktop/2do_Semestre/Lenguages_Progr/Ada/Ada_Polynomials/Polinomios/polinomios.gpr</vfs_project>
       <vfs_file>/home/toto/Desktop/2do_Semestre/Lenguages_Progr/Ada/Ada_Polynomials/Polinomios/src/polinomial.adb</vfs_file>
     </file_marker>
@@ -122,79 +121,71 @@
       <vfs_project>/home/toto/Desktop/2do_Semestre/Lenguages_Progr/Ada/Ada_Polynomials/Polinomios/polinomios.gpr</vfs_project>
       <vfs_file>/home/toto/Desktop/2do_Semestre/Lenguages_Progr/Ada/Ada_Polynomials/Polinomios/src/polinomial.adb</vfs_file>
     </file_marker>
-    <file_marker column=" 17" line=" 127" >
+    <file_marker column=" 17" line=" 125" >
       <vfs_project>/home/toto/Desktop/2do_Semestre/Lenguages_Progr/Ada/Ada_Polynomials/Polinomios/polinomios.gpr</vfs_project>
       <vfs_file>/home/toto/Desktop/2do_Semestre/Lenguages_Progr/Ada/Ada_Polynomials/Polinomios/src/polinomial.adb</vfs_file>
     </file_marker>
-    <file_marker column=" 7" line=" 178" >
+    <file_marker column=" 7" line=" 169" >
       <vfs_project>/home/toto/Desktop/2do_Semestre/Lenguages_Progr/Ada/Ada_Polynomials/Polinomios/polinomios.gpr</vfs_project>
       <vfs_file>/home/toto/Desktop/2do_Semestre/Lenguages_Progr/Ada/Ada_Polynomials/Polinomios/src/polinomial.adb</vfs_file>
     </file_marker>
-    <file_marker column=" 6" line=" 153" >
+    <file_marker column=" 6" line=" 143" >
       <vfs_project>/home/toto/Desktop/2do_Semestre/Lenguages_Progr/Ada/Ada_Polynomials/Polinomios/polinomios.gpr</vfs_project>
       <vfs_file>/home/toto/Desktop/2do_Semestre/Lenguages_Progr/Ada/Ada_Polynomials/Polinomios/src/polinomial.adb</vfs_file>
     </file_marker>
-    <file_marker column=" 7" line=" 178" >
+    <file_marker column=" 7" line=" 169" >
       <vfs_project>/home/toto/Desktop/2do_Semestre/Lenguages_Progr/Ada/Ada_Polynomials/Polinomios/polinomios.gpr</vfs_project>
       <vfs_file>/home/toto/Desktop/2do_Semestre/Lenguages_Progr/Ada/Ada_Polynomials/Polinomios/src/polinomial.adb</vfs_file>
     </file_marker>
-    <file_marker column=" 6" line=" 153" >
+    <file_marker column=" 6" line=" 143" >
       <vfs_project>/home/toto/Desktop/2do_Semestre/Lenguages_Progr/Ada/Ada_Polynomials/Polinomios/polinomios.gpr</vfs_project>
       <vfs_file>/home/toto/Desktop/2do_Semestre/Lenguages_Progr/Ada/Ada_Polynomials/Polinomios/src/polinomial.adb</vfs_file>
     </file_marker>
-    <file_marker column=" 6" line=" 153" >
+    <file_marker column=" 6" line=" 143" >
       <vfs_project>/home/toto/Desktop/2do_Semestre/Lenguages_Progr/Ada/Ada_Polynomials/Polinomios/polinomios.gpr</vfs_project>
       <vfs_file>/home/toto/Desktop/2do_Semestre/Lenguages_Progr/Ada/Ada_Polynomials/Polinomios/src/polinomial.adb</vfs_file>
     </file_marker>
-    <file_marker column=" 6" line=" 153" >
+    <file_marker column=" 6" line=" 143" >
       <vfs_project>/home/toto/Desktop/2do_Semestre/Lenguages_Progr/Ada/Ada_Polynomials/Polinomios/polinomios.gpr</vfs_project>
       <vfs_file>/home/toto/Desktop/2do_Semestre/Lenguages_Progr/Ada/Ada_Polynomials/Polinomios/src/polinomial.adb</vfs_file>
     </file_marker>
-    <file_marker column=" 6" line=" 153" >
+    <file_marker column=" 6" line=" 143" >
       <vfs_project>/home/toto/Desktop/2do_Semestre/Lenguages_Progr/Ada/Ada_Polynomials/Polinomios/polinomios.gpr</vfs_project>
       <vfs_file>/home/toto/Desktop/2do_Semestre/Lenguages_Progr/Ada/Ada_Polynomials/Polinomios/src/polinomial.adb</vfs_file>
     </file_marker>
-    <file_marker column=" 6" line=" 153" >
+    <file_marker column=" 6" line=" 143" >
       <vfs_project>/home/toto/Desktop/2do_Semestre/Lenguages_Progr/Ada/Ada_Polynomials/Polinomios/polinomios.gpr</vfs_project>
       <vfs_file>/home/toto/Desktop/2do_Semestre/Lenguages_Progr/Ada/Ada_Polynomials/Polinomios/src/polinomial.adb</vfs_file>
     </file_marker>
-    <file_marker column=" 6" line=" 153" >
+    <file_marker column=" 6" line=" 143" >
       <vfs_project>/home/toto/Desktop/2do_Semestre/Lenguages_Progr/Ada/Ada_Polynomials/Polinomios/polinomios.gpr</vfs_project>
       <vfs_file>/home/toto/Desktop/2do_Semestre/Lenguages_Progr/Ada/Ada_Polynomials/Polinomios/src/polinomial.adb</vfs_file>
     </file_marker>
-    <file_marker column=" 6" line=" 153" >
+    <file_marker column=" 6" line=" 143" >
       <vfs_project>/home/toto/Desktop/2do_Semestre/Lenguages_Progr/Ada/Ada_Polynomials/Polinomios/polinomios.gpr</vfs_project>
       <vfs_file>/home/toto/Desktop/2do_Semestre/Lenguages_Progr/Ada/Ada_Polynomials/Polinomios/src/polinomial.adb</vfs_file>
     </file_marker>
-    <file_marker column=" 6" line=" 153" >
+    <file_marker column=" 6" line=" 143" >
       <vfs_project>/home/toto/Desktop/2do_Semestre/Lenguages_Progr/Ada/Ada_Polynomials/Polinomios/polinomios.gpr</vfs_project>
       <vfs_file>/home/toto/Desktop/2do_Semestre/Lenguages_Progr/Ada/Ada_Polynomials/Polinomios/src/polinomial.adb</vfs_file>
     </file_marker>
-    <file_marker column=" 6" line=" 153" >
+    <file_marker column=" 6" line=" 143" >
       <vfs_project>/home/toto/Desktop/2do_Semestre/Lenguages_Progr/Ada/Ada_Polynomials/Polinomios/polinomios.gpr</vfs_project>
       <vfs_file>/home/toto/Desktop/2do_Semestre/Lenguages_Progr/Ada/Ada_Polynomials/Polinomios/src/polinomial.adb</vfs_file>
     </file_marker>
-    <file_marker column=" 6" line=" 153" >
+    <file_marker column=" 6" line=" 143" >
       <vfs_project>/home/toto/Desktop/2do_Semestre/Lenguages_Progr/Ada/Ada_Polynomials/Polinomios/polinomios.gpr</vfs_project>
       <vfs_file>/home/toto/Desktop/2do_Semestre/Lenguages_Progr/Ada/Ada_Polynomials/Polinomios/src/polinomial.adb</vfs_file>
     </file_marker>
-    <file_marker column=" 6" line=" 153" >
+    <file_marker column=" 6" line=" 143" >
       <vfs_project>/home/toto/Desktop/2do_Semestre/Lenguages_Progr/Ada/Ada_Polynomials/Polinomios/polinomios.gpr</vfs_project>
       <vfs_file>/home/toto/Desktop/2do_Semestre/Lenguages_Progr/Ada/Ada_Polynomials/Polinomios/src/polinomial.adb</vfs_file>
     </file_marker>
-    <file_marker column=" 6" line=" 153" >
+    <file_marker column=" 6" line=" 143" >
       <vfs_project>/home/toto/Desktop/2do_Semestre/Lenguages_Progr/Ada/Ada_Polynomials/Polinomios/polinomios.gpr</vfs_project>
       <vfs_file>/home/toto/Desktop/2do_Semestre/Lenguages_Progr/Ada/Ada_Polynomials/Polinomios/src/polinomial.adb</vfs_file>
     </file_marker>
-    <file_marker column=" 6" line=" 153" >
-      <vfs_project>/home/toto/Desktop/2do_Semestre/Lenguages_Progr/Ada/Ada_Polynomials/Polinomios/polinomios.gpr</vfs_project>
-      <vfs_file>/home/toto/Desktop/2do_Semestre/Lenguages_Progr/Ada/Ada_Polynomials/Polinomios/src/polinomial.adb</vfs_file>
-    </file_marker>
-    <file_marker column=" 32" line=" 133" >
-      <vfs_project>/home/toto/Desktop/2do_Semestre/Lenguages_Progr/Ada/Ada_Polynomials/Polinomios/polinomios.gpr</vfs_project>
-      <vfs_file>/home/toto/Desktop/2do_Semestre/Lenguages_Progr/Ada/Ada_Polynomials/Polinomios/src/polinomial.adb</vfs_file>
-    </file_marker>
-    <file_marker column=" 6" line=" 153" >
+    <file_marker column=" 6" line=" 143" >
       <vfs_project>/home/toto/Desktop/2do_Semestre/Lenguages_Progr/Ada/Ada_Polynomials/Polinomios/polinomios.gpr</vfs_project>
       <vfs_file>/home/toto/Desktop/2do_Semestre/Lenguages_Progr/Ada/Ada_Polynomials/Polinomios/src/polinomial.adb</vfs_file>
     </file_marker>
@@ -202,11 +193,7 @@
       <vfs_project>/home/toto/Desktop/2do_Semestre/Lenguages_Progr/Ada/Ada_Polynomials/Polinomios/polinomios.gpr</vfs_project>
       <vfs_file>/home/toto/Desktop/2do_Semestre/Lenguages_Progr/Ada/Ada_Polynomials/Polinomios/src/polinomial.adb</vfs_file>
     </file_marker>
-    <file_marker column=" 1" line=" 153" >
-      <vfs_project>/home/toto/Desktop/2do_Semestre/Lenguages_Progr/Ada/Ada_Polynomials/Polinomios/polinomios.gpr</vfs_project>
-      <vfs_file>/home/toto/Desktop/2do_Semestre/Lenguages_Progr/Ada/Ada_Polynomials/Polinomios/src/polinomial.adb</vfs_file>
-    </file_marker>
-    <file_marker column=" 6" line=" 153" >
+    <file_marker column=" 6" line=" 143" >
       <vfs_project>/home/toto/Desktop/2do_Semestre/Lenguages_Progr/Ada/Ada_Polynomials/Polinomios/polinomios.gpr</vfs_project>
       <vfs_file>/home/toto/Desktop/2do_Semestre/Lenguages_Progr/Ada/Ada_Polynomials/Polinomios/src/polinomial.adb</vfs_file>
     </file_marker>
@@ -214,7 +201,11 @@
       <vfs_project>/home/toto/Desktop/2do_Semestre/Lenguages_Progr/Ada/Ada_Polynomials/Polinomios/polinomios.gpr</vfs_project>
       <vfs_file>/home/toto/Desktop/2do_Semestre/Lenguages_Progr/Ada/Ada_Polynomials/Polinomios/src/polinomial.adb</vfs_file>
     </file_marker>
-    <file_marker column=" 6" line=" 153" >
+    <file_marker column=" 1" line=" 143" >
+      <vfs_project>/home/toto/Desktop/2do_Semestre/Lenguages_Progr/Ada/Ada_Polynomials/Polinomios/polinomios.gpr</vfs_project>
+      <vfs_file>/home/toto/Desktop/2do_Semestre/Lenguages_Progr/Ada/Ada_Polynomials/Polinomios/src/polinomial.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 6" line=" 143" >
       <vfs_project>/home/toto/Desktop/2do_Semestre/Lenguages_Progr/Ada/Ada_Polynomials/Polinomios/polinomios.gpr</vfs_project>
       <vfs_file>/home/toto/Desktop/2do_Semestre/Lenguages_Progr/Ada/Ada_Polynomials/Polinomios/src/polinomial.adb</vfs_file>
     </file_marker>
@@ -222,7 +213,7 @@
       <vfs_project>/home/toto/Desktop/2do_Semestre/Lenguages_Progr/Ada/Ada_Polynomials/Polinomios/polinomios.gpr</vfs_project>
       <vfs_file>/home/toto/Desktop/2do_Semestre/Lenguages_Progr/Ada/Ada_Polynomials/Polinomios/src/polinomial.adb</vfs_file>
     </file_marker>
-    <file_marker column=" 6" line=" 153" >
+    <file_marker column=" 6" line=" 143" >
       <vfs_project>/home/toto/Desktop/2do_Semestre/Lenguages_Progr/Ada/Ada_Polynomials/Polinomios/polinomios.gpr</vfs_project>
       <vfs_file>/home/toto/Desktop/2do_Semestre/Lenguages_Progr/Ada/Ada_Polynomials/Polinomios/src/polinomial.adb</vfs_file>
     </file_marker>
@@ -230,63 +221,71 @@
       <vfs_project>/home/toto/Desktop/2do_Semestre/Lenguages_Progr/Ada/Ada_Polynomials/Polinomios/polinomios.gpr</vfs_project>
       <vfs_file>/home/toto/Desktop/2do_Semestre/Lenguages_Progr/Ada/Ada_Polynomials/Polinomios/src/polinomial.adb</vfs_file>
     </file_marker>
-    <file_marker column=" 6" line=" 153" >
+    <file_marker column=" 6" line=" 143" >
       <vfs_project>/home/toto/Desktop/2do_Semestre/Lenguages_Progr/Ada/Ada_Polynomials/Polinomios/polinomios.gpr</vfs_project>
       <vfs_file>/home/toto/Desktop/2do_Semestre/Lenguages_Progr/Ada/Ada_Polynomials/Polinomios/src/polinomial.adb</vfs_file>
     </file_marker>
-    <file_marker column=" 6" line=" 153" >
+    <file_marker column=" 32" line=" 133" >
       <vfs_project>/home/toto/Desktop/2do_Semestre/Lenguages_Progr/Ada/Ada_Polynomials/Polinomios/polinomios.gpr</vfs_project>
       <vfs_file>/home/toto/Desktop/2do_Semestre/Lenguages_Progr/Ada/Ada_Polynomials/Polinomios/src/polinomial.adb</vfs_file>
     </file_marker>
-    <file_marker column=" 6" line=" 153" >
+    <file_marker column=" 6" line=" 143" >
       <vfs_project>/home/toto/Desktop/2do_Semestre/Lenguages_Progr/Ada/Ada_Polynomials/Polinomios/polinomios.gpr</vfs_project>
       <vfs_file>/home/toto/Desktop/2do_Semestre/Lenguages_Progr/Ada/Ada_Polynomials/Polinomios/src/polinomial.adb</vfs_file>
     </file_marker>
-    <file_marker column=" 6" line=" 153" >
+    <file_marker column=" 6" line=" 143" >
       <vfs_project>/home/toto/Desktop/2do_Semestre/Lenguages_Progr/Ada/Ada_Polynomials/Polinomios/polinomios.gpr</vfs_project>
       <vfs_file>/home/toto/Desktop/2do_Semestre/Lenguages_Progr/Ada/Ada_Polynomials/Polinomios/src/polinomial.adb</vfs_file>
     </file_marker>
-    <file_marker column=" 17" line=" 181" >
+    <file_marker column=" 6" line=" 143" >
       <vfs_project>/home/toto/Desktop/2do_Semestre/Lenguages_Progr/Ada/Ada_Polynomials/Polinomios/polinomios.gpr</vfs_project>
       <vfs_file>/home/toto/Desktop/2do_Semestre/Lenguages_Progr/Ada/Ada_Polynomials/Polinomios/src/polinomial.adb</vfs_file>
     </file_marker>
-    <file_marker column=" 12" line=" 136" >
+    <file_marker column=" 6" line=" 143" >
       <vfs_project>/home/toto/Desktop/2do_Semestre/Lenguages_Progr/Ada/Ada_Polynomials/Polinomios/polinomios.gpr</vfs_project>
       <vfs_file>/home/toto/Desktop/2do_Semestre/Lenguages_Progr/Ada/Ada_Polynomials/Polinomios/src/polinomial.adb</vfs_file>
     </file_marker>
-    <file_marker column=" 15" line=" 138" >
+    <file_marker column=" 17" line=" 171" >
       <vfs_project>/home/toto/Desktop/2do_Semestre/Lenguages_Progr/Ada/Ada_Polynomials/Polinomios/polinomios.gpr</vfs_project>
       <vfs_file>/home/toto/Desktop/2do_Semestre/Lenguages_Progr/Ada/Ada_Polynomials/Polinomios/src/polinomial.adb</vfs_file>
     </file_marker>
-    <file_marker column=" 12" line=" 150" >
+    <file_marker column=" 12" line=" 137" >
       <vfs_project>/home/toto/Desktop/2do_Semestre/Lenguages_Progr/Ada/Ada_Polynomials/Polinomios/polinomios.gpr</vfs_project>
       <vfs_file>/home/toto/Desktop/2do_Semestre/Lenguages_Progr/Ada/Ada_Polynomials/Polinomios/src/polinomial.adb</vfs_file>
     </file_marker>
-    <file_marker column=" 14" line=" 177" >
+    <file_marker column=" 55" line=" 138" >
       <vfs_project>/home/toto/Desktop/2do_Semestre/Lenguages_Progr/Ada/Ada_Polynomials/Polinomios/polinomios.gpr</vfs_project>
       <vfs_file>/home/toto/Desktop/2do_Semestre/Lenguages_Progr/Ada/Ada_Polynomials/Polinomios/src/polinomial.adb</vfs_file>
     </file_marker>
-    <file_marker column=" 12" line=" 150" >
+    <file_marker column=" 55" line=" 138" >
       <vfs_project>/home/toto/Desktop/2do_Semestre/Lenguages_Progr/Ada/Ada_Polynomials/Polinomios/polinomios.gpr</vfs_project>
       <vfs_file>/home/toto/Desktop/2do_Semestre/Lenguages_Progr/Ada/Ada_Polynomials/Polinomios/src/polinomial.adb</vfs_file>
     </file_marker>
-    <file_marker column=" 13" line=" 149" >
+    <file_marker column=" 14" line=" 168" >
       <vfs_project>/home/toto/Desktop/2do_Semestre/Lenguages_Progr/Ada/Ada_Polynomials/Polinomios/polinomios.gpr</vfs_project>
       <vfs_file>/home/toto/Desktop/2do_Semestre/Lenguages_Progr/Ada/Ada_Polynomials/Polinomios/src/polinomial.adb</vfs_file>
     </file_marker>
-    <file_marker column=" 12" line=" 150" >
+    <file_marker column=" 55" line=" 138" >
       <vfs_project>/home/toto/Desktop/2do_Semestre/Lenguages_Progr/Ada/Ada_Polynomials/Polinomios/polinomios.gpr</vfs_project>
       <vfs_file>/home/toto/Desktop/2do_Semestre/Lenguages_Progr/Ada/Ada_Polynomials/Polinomios/src/polinomial.adb</vfs_file>
     </file_marker>
-    <file_marker column=" 9" line=" 137" >
+    <file_marker column=" 55" line=" 138" >
       <vfs_project>/home/toto/Desktop/2do_Semestre/Lenguages_Progr/Ada/Ada_Polynomials/Polinomios/polinomios.gpr</vfs_project>
       <vfs_file>/home/toto/Desktop/2do_Semestre/Lenguages_Progr/Ada/Ada_Polynomials/Polinomios/src/polinomial.adb</vfs_file>
     </file_marker>
-    <file_marker column=" 59" line=" 148" >
+    <file_marker column=" 55" line=" 138" >
       <vfs_project>/home/toto/Desktop/2do_Semestre/Lenguages_Progr/Ada/Ada_Polynomials/Polinomios/polinomios.gpr</vfs_project>
       <vfs_file>/home/toto/Desktop/2do_Semestre/Lenguages_Progr/Ada/Ada_Polynomials/Polinomios/src/polinomial.adb</vfs_file>
     </file_marker>
-    <file_marker column=" 9" line=" 137" >
+    <file_marker column=" 9" line=" 138" >
+      <vfs_project>/home/toto/Desktop/2do_Semestre/Lenguages_Progr/Ada/Ada_Polynomials/Polinomios/polinomios.gpr</vfs_project>
+      <vfs_file>/home/toto/Desktop/2do_Semestre/Lenguages_Progr/Ada/Ada_Polynomials/Polinomios/src/polinomial.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 55" line=" 138" >
+      <vfs_project>/home/toto/Desktop/2do_Semestre/Lenguages_Progr/Ada/Ada_Polynomials/Polinomios/polinomios.gpr</vfs_project>
+      <vfs_file>/home/toto/Desktop/2do_Semestre/Lenguages_Progr/Ada/Ada_Polynomials/Polinomios/src/polinomial.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 9" line=" 138" >
       <vfs_project>/home/toto/Desktop/2do_Semestre/Lenguages_Progr/Ada/Ada_Polynomials/Polinomios/polinomios.gpr</vfs_project>
       <vfs_file>/home/toto/Desktop/2do_Semestre/Lenguages_Progr/Ada/Ada_Polynomials/Polinomios/src/polinomial.adb</vfs_file>
     </file_marker>
@@ -298,31 +297,31 @@
       <vfs_project>/home/toto/Desktop/2do_Semestre/Lenguages_Progr/Ada/Ada_Polynomials/Polinomios/polinomios.gpr</vfs_project>
       <vfs_file>/home/toto/Desktop/2do_Semestre/Lenguages_Progr/Ada/Ada_Polynomials/Polinomios/src/main.adb</vfs_file>
     </file_marker>
-    <file_marker column=" 10" line=" 151" >
+    <file_marker column=" 10" line=" 139" >
       <vfs_project>/home/toto/Desktop/2do_Semestre/Lenguages_Progr/Ada/Ada_Polynomials/Polinomios/polinomios.gpr</vfs_project>
       <vfs_file>/home/toto/Desktop/2do_Semestre/Lenguages_Progr/Ada/Ada_Polynomials/Polinomios/src/polinomial.adb</vfs_file>
     </file_marker>
-    <file_marker column=" 31" line=" 142" >
+    <file_marker column=" 55" line=" 138" >
       <vfs_project>/home/toto/Desktop/2do_Semestre/Lenguages_Progr/Ada/Ada_Polynomials/Polinomios/polinomios.gpr</vfs_project>
       <vfs_file>/home/toto/Desktop/2do_Semestre/Lenguages_Progr/Ada/Ada_Polynomials/Polinomios/src/polinomial.adb</vfs_file>
     </file_marker>
-    <file_marker column=" 76" line=" 152" >
+    <file_marker column=" 73" line=" 142" >
       <vfs_project>/home/toto/Desktop/2do_Semestre/Lenguages_Progr/Ada/Ada_Polynomials/Polinomios/polinomios.gpr</vfs_project>
       <vfs_file>/home/toto/Desktop/2do_Semestre/Lenguages_Progr/Ada/Ada_Polynomials/Polinomios/src/polinomial.adb</vfs_file>
     </file_marker>
-    <file_marker column=" 14" line=" 177" >
+    <file_marker column=" 14" line=" 168" >
       <vfs_project>/home/toto/Desktop/2do_Semestre/Lenguages_Progr/Ada/Ada_Polynomials/Polinomios/polinomios.gpr</vfs_project>
       <vfs_file>/home/toto/Desktop/2do_Semestre/Lenguages_Progr/Ada/Ada_Polynomials/Polinomios/src/polinomial.adb</vfs_file>
     </file_marker>
-    <file_marker column=" 21" line=" 162" >
+    <file_marker column=" 21" line=" 152" >
       <vfs_project>/home/toto/Desktop/2do_Semestre/Lenguages_Progr/Ada/Ada_Polynomials/Polinomios/polinomios.gpr</vfs_project>
       <vfs_file>/home/toto/Desktop/2do_Semestre/Lenguages_Progr/Ada/Ada_Polynomials/Polinomios/src/polinomial.adb</vfs_file>
     </file_marker>
-    <file_marker column=" 23" line=" 164" >
+    <file_marker column=" 23" line=" 154" >
       <vfs_project>/home/toto/Desktop/2do_Semestre/Lenguages_Progr/Ada/Ada_Polynomials/Polinomios/polinomios.gpr</vfs_project>
       <vfs_file>/home/toto/Desktop/2do_Semestre/Lenguages_Progr/Ada/Ada_Polynomials/Polinomios/src/polinomial.adb</vfs_file>
     </file_marker>
-    <file_marker column=" 24" line=" 165" >
+    <file_marker column=" 24" line=" 155" >
       <vfs_project>/home/toto/Desktop/2do_Semestre/Lenguages_Progr/Ada/Ada_Polynomials/Polinomios/polinomios.gpr</vfs_project>
       <vfs_file>/home/toto/Desktop/2do_Semestre/Lenguages_Progr/Ada/Ada_Polynomials/Polinomios/src/polinomial.adb</vfs_file>
     </file_marker>
@@ -374,19 +373,19 @@
       <vfs_project>/home/toto/Desktop/2do_Semestre/Lenguages_Progr/Ada/Ada_Polynomials/Polinomios/polinomios.gpr</vfs_project>
       <vfs_file>/home/toto/Desktop/2do_Semestre/Lenguages_Progr/Ada/Ada_Polynomials/Polinomios/src/main.adb</vfs_file>
     </file_marker>
-    <file_marker column=" 32" line=" 155" >
+    <file_marker column=" 32" line=" 145" >
       <vfs_project>/home/toto/Desktop/2do_Semestre/Lenguages_Progr/Ada/Ada_Polynomials/Polinomios/polinomios.gpr</vfs_project>
       <vfs_file>/home/toto/Desktop/2do_Semestre/Lenguages_Progr/Ada/Ada_Polynomials/Polinomios/src/polinomial.adb</vfs_file>
     </file_marker>
-    <file_marker column=" 44" line=" 170" >
+    <file_marker column=" 44" line=" 161" >
       <vfs_project>/home/toto/Desktop/2do_Semestre/Lenguages_Progr/Ada/Ada_Polynomials/Polinomios/polinomios.gpr</vfs_project>
       <vfs_file>/home/toto/Desktop/2do_Semestre/Lenguages_Progr/Ada/Ada_Polynomials/Polinomios/src/polinomial.adb</vfs_file>
     </file_marker>
-    <file_marker column=" 31" line=" 172" >
+    <file_marker column=" 31" line=" 163" >
       <vfs_project>/home/toto/Desktop/2do_Semestre/Lenguages_Progr/Ada/Ada_Polynomials/Polinomios/polinomios.gpr</vfs_project>
       <vfs_file>/home/toto/Desktop/2do_Semestre/Lenguages_Progr/Ada/Ada_Polynomials/Polinomios/src/polinomial.adb</vfs_file>
     </file_marker>
-    <file_marker column=" 22" line=" 169" >
+    <file_marker column=" 1" line=" 159" >
       <vfs_project>/home/toto/Desktop/2do_Semestre/Lenguages_Progr/Ada/Ada_Polynomials/Polinomios/polinomios.gpr</vfs_project>
       <vfs_file>/home/toto/Desktop/2do_Semestre/Lenguages_Progr/Ada/Ada_Polynomials/Polinomios/src/polinomial.adb</vfs_file>
     </file_marker>
@@ -394,7 +393,39 @@
       <vfs_project>/home/toto/Desktop/2do_Semestre/Lenguages_Progr/Ada/Ada_Polynomials/Polinomios/polinomios.gpr</vfs_project>
       <vfs_file>/home/toto/Desktop/2do_Semestre/Lenguages_Progr/Ada/Ada_Polynomials/Polinomios/src/polinomial.adb</vfs_file>
     </file_marker>
-    <file_marker current="true" column=" 22" line=" 169" >
+    <file_marker column=" 1" line=" 159" >
+      <vfs_project>/home/toto/Desktop/2do_Semestre/Lenguages_Progr/Ada/Ada_Polynomials/Polinomios/polinomios.gpr</vfs_project>
+      <vfs_file>/home/toto/Desktop/2do_Semestre/Lenguages_Progr/Ada/Ada_Polynomials/Polinomios/src/polinomial.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 59" line=" 142" >
+      <vfs_project>/home/toto/Desktop/2do_Semestre/Lenguages_Progr/Ada/Ada_Polynomials/Polinomios/polinomios.gpr</vfs_project>
+      <vfs_file>/home/toto/Desktop/2do_Semestre/Lenguages_Progr/Ada/Ada_Polynomials/Polinomios/src/polinomial.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 7" line=" 134" >
+      <vfs_project>/home/toto/Desktop/2do_Semestre/Lenguages_Progr/Ada/Ada_Polynomials/Polinomios/polinomios.gpr</vfs_project>
+      <vfs_file>/home/toto/Desktop/2do_Semestre/Lenguages_Progr/Ada/Ada_Polynomials/Polinomios/src/polinomial.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 22" line=" 135" >
+      <vfs_project>/home/toto/Desktop/2do_Semestre/Lenguages_Progr/Ada/Ada_Polynomials/Polinomios/polinomios.gpr</vfs_project>
+      <vfs_file>/home/toto/Desktop/2do_Semestre/Lenguages_Progr/Ada/Ada_Polynomials/Polinomios/src/polinomial.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 18" line=" 134" >
+      <vfs_project>/home/toto/Desktop/2do_Semestre/Lenguages_Progr/Ada/Ada_Polynomials/Polinomios/polinomios.gpr</vfs_project>
+      <vfs_file>/home/toto/Desktop/2do_Semestre/Lenguages_Progr/Ada/Ada_Polynomials/Polinomios/src/polinomial.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 59" line=" 142" >
+      <vfs_project>/home/toto/Desktop/2do_Semestre/Lenguages_Progr/Ada/Ada_Polynomials/Polinomios/polinomios.gpr</vfs_project>
+      <vfs_file>/home/toto/Desktop/2do_Semestre/Lenguages_Progr/Ada/Ada_Polynomials/Polinomios/src/polinomial.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 18" line=" 134" >
+      <vfs_project>/home/toto/Desktop/2do_Semestre/Lenguages_Progr/Ada/Ada_Polynomials/Polinomios/polinomios.gpr</vfs_project>
+      <vfs_file>/home/toto/Desktop/2do_Semestre/Lenguages_Progr/Ada/Ada_Polynomials/Polinomios/src/polinomial.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 30" line=" 140" >
+      <vfs_project>/home/toto/Desktop/2do_Semestre/Lenguages_Progr/Ada/Ada_Polynomials/Polinomios/polinomios.gpr</vfs_project>
+      <vfs_file>/home/toto/Desktop/2do_Semestre/Lenguages_Progr/Ada/Ada_Polynomials/Polinomios/src/polinomial.adb</vfs_file>
+    </file_marker>
+    <file_marker current="true" column=" 18" line=" 134" >
       <vfs_project>/home/toto/Desktop/2do_Semestre/Lenguages_Progr/Ada/Ada_Polynomials/Polinomios/polinomios.gpr</vfs_project>
       <vfs_file>/home/toto/Desktop/2do_Semestre/Lenguages_Progr/Ada/Ada_Polynomials/Polinomios/src/polinomial.adb</vfs_file>
     </file_marker>

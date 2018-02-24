@@ -1,9 +1,7 @@
-with Ada.Text_IO;
-use Ada.Text_IO;
-with Ada.Integer_Text_IO;
-use Ada.Integer_Text_IO;
-with Ada.Strings.Unbounded;
-use Ada.Strings.unbounded;
+with Ada.Text_IO; use Ada.Text_IO;
+with Ada.Integer_Text_IO; use Ada.Integer_Text_IO;
+with Ada.Strings.Unbounded; use Ada.Strings.unbounded;
+with Ada.Strings.Fixed;
 
 package body polinomial is
 
@@ -130,26 +128,18 @@ package body polinomial is
    end set_degree;
 
    procedure print_coeff(coef: in coefficient; d : in Integer) is
-      result: Unbounded_String;
+      use Ada.Strings.Fixed;
 
+      result: Unbounded_String;
+      Raw_Image: String := " 0";
+      Trimmed_Image: String := "0";
    begin
       if d = 0 then
         append(result,  Integer'Image(coef(1)));
-      --elsif d = 1 then
-      --      if coef(2) /= 1 then
-      --         append(result, Integer'Image(coef(2))&"x ");
-      --      else
-      --         append(result, "x ");
-      --      end if;
-      --      if coef(1) > 0 then
-      --         append(result, "+" & Integer'Image(coef(1)));
-      --      else
-      --         if coef(1) < 0 then
-      --            append(result, "-" & Integer'Image(coef(1)));
-      --         end if;
-      --      end if;
       else
-         append(result, Integer'Image(coef(d+1)) & "x^" & Integer'Image(d));
+         Raw_Image := Integer'Image(d);
+         Trimmed_Image:= Trim(Raw_Image, Ada.Strings.Left);
+         append(result, Integer'Image(coef(d+1)) & "x^" & Trimmed_Image);
          for Count in reverse 1 .. d
          loop
             if coef(Count) > 0 then
@@ -166,8 +156,9 @@ package body polinomial is
                   append(result, "x");
                else
                   if Count /=2 then
-
-                     append(result, "x^" & Integer'Image(Count-1));
+                     Raw_Image := Integer'Image(Count-1);
+                     Trimmed_Image:= Trim(Raw_Image, Ada.Strings.Left);
+                     append(result, "x^" & Trimmed_Image);
                   else
                      append(result, "x");
                   end if;
@@ -177,5 +168,4 @@ package body polinomial is
       end if;
       Put_Line(To_String(result));
    end print_coeff;
-
  end polinomial;
