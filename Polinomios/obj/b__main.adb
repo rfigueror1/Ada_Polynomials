@@ -27,6 +27,10 @@ package body ada_main is
    E114 : Short_Integer; pragma Import (Ada, E114, "system__finalization_root_E");
    E112 : Short_Integer; pragma Import (Ada, E112, "ada__finalization_E");
    E111 : Short_Integer; pragma Import (Ada, E111, "system__file_io_E");
+   E149 : Short_Integer; pragma Import (Ada, E149, "system__storage_pools_E");
+   E145 : Short_Integer; pragma Import (Ada, E145, "system__finalization_masters_E");
+   E143 : Short_Integer; pragma Import (Ada, E143, "system__storage_pools__subpools_E");
+   E137 : Short_Integer; pragma Import (Ada, E137, "ada__strings__unbounded_E");
    E099 : Short_Integer; pragma Import (Ada, E099, "ada__text_io_E");
    E135 : Short_Integer; pragma Import (Ada, E135, "polinomial_E");
 
@@ -44,12 +48,33 @@ package body ada_main is
       begin
          F1;
       end;
+      E137 := E137 - 1;
       declare
          procedure F2;
-         pragma Import (Ada, F2, "system__file_io__finalize_body");
+         pragma Import (Ada, F2, "ada__strings__unbounded__finalize_spec");
+      begin
+         F2;
+      end;
+      E143 := E143 - 1;
+      declare
+         procedure F3;
+         pragma Import (Ada, F3, "system__storage_pools__subpools__finalize_spec");
+      begin
+         F3;
+      end;
+      E145 := E145 - 1;
+      declare
+         procedure F4;
+         pragma Import (Ada, F4, "system__finalization_masters__finalize_spec");
+      begin
+         F4;
+      end;
+      declare
+         procedure F5;
+         pragma Import (Ada, F5, "system__file_io__finalize_body");
       begin
          E111 := E111 - 1;
-         F2;
+         F5;
       end;
       declare
          procedure Reraise_Library_Exception_If_Any;
@@ -184,6 +209,15 @@ package body ada_main is
       E112 := E112 + 1;
       System.File_Io'Elab_Body;
       E111 := E111 + 1;
+      System.Storage_Pools'Elab_Spec;
+      E149 := E149 + 1;
+      System.Finalization_Masters'Elab_Spec;
+      System.Finalization_Masters'Elab_Body;
+      E145 := E145 + 1;
+      System.Storage_Pools.Subpools'Elab_Spec;
+      E143 := E143 + 1;
+      Ada.Strings.Unbounded'Elab_Spec;
+      E137 := E137 + 1;
       Ada.Text_Io'Elab_Spec;
       Ada.Text_Io'Elab_Body;
       E099 := E099 + 1;

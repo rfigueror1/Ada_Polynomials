@@ -135,19 +135,6 @@ package body polinomial is
    begin
       if d = 0 then
         append(result,  Integer'Image(coef(1)));
-      --elsif d = 1 then
-      --      if coef(2) /= 1 then
-      --         append(result, Integer'Image(coef(2))&"x ");
-      --      else
-      --         append(result, "x ");
-      --      end if;
-      --      if coef(1) > 0 then
-      --         append(result, "+" & Integer'Image(coef(1)));
-      --      else
-      --         if coef(1) < 0 then
-      --            append(result, "-" & Integer'Image(coef(1)));
-      --         end if;
-      --      end if;
       else
          append(result, Integer'Image(coef(d+1)) & "x^" & Integer'Image(d));
          for Count in reverse 1 .. d
@@ -177,5 +164,4 @@ package body polinomial is
       end if;
       Put_Line(To_String(result));
    end print_coeff;
-
  end polinomial;
