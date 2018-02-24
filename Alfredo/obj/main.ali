@@ -1,0 +1,54 @@
+V "GNAT Lib v2017"
+M P W=b
+A -gnatA
+A -mtune=generic
+A -march=x86-64
+P SS ZX
+
+RN
+RV NO_IMPLEMENTATION_PRAGMAS
+RV SPARK_05
+
+U main%b		main.adb		5f05a7a8 NE OO SU
+W exception_show%s	exception_show.adb	exception_show.ali
+W figures%s		figures.adb		figures.ali
+W parallel%s		parallel.adb		parallel.ali
+W string_type%s		string_type.adb		string_type.ali
+W types_example%s	types_example.adb	types_example.ali
+
+D ada.ads		20170516105951 76789da1 ada%s
+D a-except.ads		20170516105953 291912d5 ada.exceptions%s
+D a-stream.ads		20170516105952 119b8fb3 ada.streams%s
+D a-tags.ads		20170516105955 d3a89129 ada.tags%s
+D a-unccon.ads		20170516105954 31484697 ada.unchecked_conversion%s
+D exception_show.ads	20180224211035 b25a1797 exception_show%s
+D figures.ads		20180224223711 aba09fee figures%s
+D main.adb		20180224224453 b1eb49dc main%b
+D parallel.ads		20180224210020 ca44e2aa parallel%s
+D string_type.ads	20180224213500 da928810 string_type%s
+D system.ads		20170516105953 6326c08a system%s
+D s-exctab.ads		20170516105954 54135002 system.exception_table%s
+D s-parame.ads		20170516105955 7e2a0d7f system.parameters%s
+D s-secsta.ads		20170516105955 9751b57e system.secondary_stack%s
+D s-soflin.ads		20170516105951 14e1eb6c system.soft_links%s
+D s-stache.ads		20170516105955 a37c21ec system.stack_checking%s
+D s-stalib.ads		20170516105955 09bd3940 system.standard_library%s
+D s-stoele.ads		20170516105956 2dc34a04 system.storage_elements%s
+D s-stratt.ads		20170516105949 aedef97e system.stream_attributes%s
+D s-traent.ads		20170516105950 005bf670 system.traceback_entries%s
+D s-unstyp.ads		20170516105953 34867c83 system.unsigned_types%s
+D types_example.ads	20180224213102 e7c20cb7 types_example%s
+X 6 exception_show.ads
+1K9*exception_show 3e19 8|1w16 3r15
+X 7 figures.ads
+1K9*Figures 42e12 8|1w60 3r59
+X 8 main.adb
+4U11*Main 4b11 11l5 11t9
+X 9 parallel.ads
+1K9*parallel 8|1w6 3r5 9|3e13
+2U14*talking 8|6s4
+X 10 string_type.ads
+1K9*string_type 8|1w47 3r46 10|3e16
+X 22 types_example.ads
+1K9*types_example 8|1w32 3r31 22|3e18
+
