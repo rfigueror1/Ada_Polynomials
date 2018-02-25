@@ -50,8 +50,8 @@ D s-stoele.ads		20170516105956 2dc34a04 system.storage_elements%s
 D s-traent.ads		20170516105950 005bf670 system.traceback_entries%s
 D s-unstyp.ads		20170516105953 34867c83 system.unsigned_types%s
 D s-wchcon.ads		20170516105954 1b7d22d2 system.wch_con%s
-D types_example.ads	20180224213102 e7c20cb7 types_example%s
-D types_example.adb	20180224213116 4d9cd92c types_example%b
+D types_example.ads	20180225184935 e7c20cb7 types_example%s
+D types_example.adb	20180225184935 4d9cd92c types_example%b
 X 1 ada.ads
 16K9*Ada 20e8 30|1r6 2r5 3r6 4r5 5r6 6r5
 X 3 a-flteio.ads

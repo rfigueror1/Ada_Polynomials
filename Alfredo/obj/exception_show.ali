@@ -23,8 +23,8 @@ D a-tags.ads		20170516105955 d3a89129 ada.tags%s
 D a-textio.ads		20170516105955 386df5d4 ada.text_io%s
 D a-tiinio.ads		20170516105950 aa04e5d6 ada.text_io.integer_io%s
 D a-unccon.ads		20170516105954 31484697 ada.unchecked_conversion%s
-D exception_show.ads	20180224211035 b25a1797 exception_show%s
-D exception_show.adb	20180224211503 be60f289 exception_show%b
+D exception_show.ads	20180225184935 b25a1797 exception_show%s
+D exception_show.adb	20180225184935 be60f289 exception_show%b
 D interfac.ads		20170516105950 5ab55268 interfaces%s
 D i-cstrea.ads		20170516105950 e53d8b8e interfaces.c_streams%s
 D system.ads		20170516105953 6326c08a system%s

@@ -29,28 +29,29 @@ package body ada_main is
    E116 : Short_Integer; pragma Import (Ada, E116, "system__finalization_root_E");
    E114 : Short_Integer; pragma Import (Ada, E114, "ada__finalization_E");
    E113 : Short_Integer; pragma Import (Ada, E113, "system__file_io_E");
-   E239 : Short_Integer; pragma Import (Ada, E239, "system__storage_pools_E");
-   E235 : Short_Integer; pragma Import (Ada, E235, "system__finalization_masters_E");
-   E233 : Short_Integer; pragma Import (Ada, E233, "system__storage_pools__subpools_E");
-   E227 : Short_Integer; pragma Import (Ada, E227, "ada__strings__unbounded_E");
-   E185 : Short_Integer; pragma Import (Ada, E185, "system__task_info_E");
-   E179 : Short_Integer; pragma Import (Ada, E179, "system__task_primitives__operations_E");
-   E164 : Short_Integer; pragma Import (Ada, E164, "ada__calendar_E");
-   E162 : Short_Integer; pragma Import (Ada, E162, "ada__calendar__delays_E");
-   E223 : Short_Integer; pragma Import (Ada, E223, "ada__real_time_E");
+   E172 : Short_Integer; pragma Import (Ada, E172, "system__storage_pools_E");
+   E168 : Short_Integer; pragma Import (Ada, E168, "system__finalization_masters_E");
+   E166 : Short_Integer; pragma Import (Ada, E166, "system__storage_pools__subpools_E");
+   E160 : Short_Integer; pragma Import (Ada, E160, "ada__strings__unbounded_E");
+   E208 : Short_Integer; pragma Import (Ada, E208, "system__task_info_E");
+   E202 : Short_Integer; pragma Import (Ada, E202, "system__task_primitives__operations_E");
+   E187 : Short_Integer; pragma Import (Ada, E187, "ada__calendar_E");
+   E185 : Short_Integer; pragma Import (Ada, E185, "ada__calendar__delays_E");
+   E246 : Short_Integer; pragma Import (Ada, E246, "ada__real_time_E");
    E101 : Short_Integer; pragma Import (Ada, E101, "ada__text_io_E");
-   E201 : Short_Integer; pragma Import (Ada, E201, "system__tasking__initialization_E");
-   E209 : Short_Integer; pragma Import (Ada, E209, "system__tasking__protected_objects_E");
-   E211 : Short_Integer; pragma Import (Ada, E211, "system__tasking__protected_objects__entries_E");
-   E215 : Short_Integer; pragma Import (Ada, E215, "system__tasking__queuing_E");
-   E221 : Short_Integer; pragma Import (Ada, E221, "system__tasking__stages_E");
+   E224 : Short_Integer; pragma Import (Ada, E224, "system__tasking__initialization_E");
+   E232 : Short_Integer; pragma Import (Ada, E232, "system__tasking__protected_objects_E");
+   E234 : Short_Integer; pragma Import (Ada, E234, "system__tasking__protected_objects__entries_E");
+   E238 : Short_Integer; pragma Import (Ada, E238, "system__tasking__queuing_E");
+   E244 : Short_Integer; pragma Import (Ada, E244, "system__tasking__stages_E");
    E005 : Short_Integer; pragma Import (Ada, E005, "exception_show_E");
    E137 : Short_Integer; pragma Import (Ada, E137, "figures_E");
-   E246 : Short_Integer; pragma Import (Ada, E246, "string_type_E");
-   E248 : Short_Integer; pragma Import (Ada, E248, "types_example_E");
-   E225 : Short_Integer; pragma Import (Ada, E225, "ustrings_E");
-   E160 : Short_Integer; pragma Import (Ada, E160, "babble_E");
-   E158 : Short_Integer; pragma Import (Ada, E158, "parallel_E");
+   E248 : Short_Integer; pragma Import (Ada, E248, "string_type_E");
+   E250 : Short_Integer; pragma Import (Ada, E250, "types_example_E");
+   E179 : Short_Integer; pragma Import (Ada, E179, "ustrings_E");
+   E183 : Short_Integer; pragma Import (Ada, E183, "babble_E");
+   E158 : Short_Integer; pragma Import (Ada, E158, "input_output_E");
+   E181 : Short_Integer; pragma Import (Ada, E181, "parallel_E");
 
    Local_Priority_Specific_Dispatching : constant String := "";
    Local_Interrupt_States : constant String := "";
@@ -66,7 +67,7 @@ package body ada_main is
       begin
          F1;
       end;
-      E211 := E211 - 1;
+      E234 := E234 - 1;
       declare
          procedure F2;
          pragma Import (Ada, F2, "system__tasking__protected_objects__entries__finalize_spec");
@@ -80,21 +81,21 @@ package body ada_main is
       begin
          F3;
       end;
-      E227 := E227 - 1;
+      E160 := E160 - 1;
       declare
          procedure F4;
          pragma Import (Ada, F4, "ada__strings__unbounded__finalize_spec");
       begin
          F4;
       end;
-      E233 := E233 - 1;
+      E166 := E166 - 1;
       declare
          procedure F5;
          pragma Import (Ada, F5, "system__storage_pools__subpools__finalize_spec");
       begin
          F5;
       end;
-      E235 := E235 - 1;
+      E168 := E168 - 1;
       declare
          procedure F6;
          pragma Import (Ada, F6, "system__finalization_masters__finalize_spec");
@@ -272,49 +273,50 @@ package body ada_main is
       System.File_Io'Elab_Body;
       E113 := E113 + 1;
       System.Storage_Pools'Elab_Spec;
-      E239 := E239 + 1;
+      E172 := E172 + 1;
       System.Finalization_Masters'Elab_Spec;
       System.Finalization_Masters'Elab_Body;
-      E235 := E235 + 1;
+      E168 := E168 + 1;
       System.Storage_Pools.Subpools'Elab_Spec;
-      E233 := E233 + 1;
+      E166 := E166 + 1;
       Ada.Strings.Unbounded'Elab_Spec;
-      E227 := E227 + 1;
+      E160 := E160 + 1;
       System.Task_Info'Elab_Spec;
-      E185 := E185 + 1;
+      E208 := E208 + 1;
       System.Task_Primitives.Operations'Elab_Body;
-      E179 := E179 + 1;
+      E202 := E202 + 1;
       Ada.Calendar'Elab_Spec;
       Ada.Calendar'Elab_Body;
-      E164 := E164 + 1;
+      E187 := E187 + 1;
       Ada.Calendar.Delays'Elab_Body;
-      E162 := E162 + 1;
+      E185 := E185 + 1;
       Ada.Real_Time'Elab_Spec;
       Ada.Real_Time'Elab_Body;
-      E223 := E223 + 1;
+      E246 := E246 + 1;
       Ada.Text_Io'Elab_Spec;
       Ada.Text_Io'Elab_Body;
       E101 := E101 + 1;
       System.Tasking.Initialization'Elab_Body;
-      E201 := E201 + 1;
+      E224 := E224 + 1;
       System.Tasking.Protected_Objects'Elab_Body;
-      E209 := E209 + 1;
+      E232 := E232 + 1;
       System.Tasking.Protected_Objects.Entries'Elab_Spec;
-      E211 := E211 + 1;
+      E234 := E234 + 1;
       System.Tasking.Queuing'Elab_Body;
-      E215 := E215 + 1;
+      E238 := E238 + 1;
       System.Tasking.Stages'Elab_Body;
-      E221 := E221 + 1;
+      E244 := E244 + 1;
       E005 := E005 + 1;
       Figures'Elab_Spec;
       Figures'Elab_Body;
       E137 := E137 + 1;
-      E246 := E246 + 1;
       E248 := E248 + 1;
-      E225 := E225 + 1;
+      E250 := E250 + 1;
+      E179 := E179 + 1;
       Babble'Elab_Body;
-      E160 := E160 + 1;
+      E183 := E183 + 1;
       E158 := E158 + 1;
+      E181 := E181 + 1;
    end adainit;
 
    procedure Ada_Main_Program;
@@ -350,16 +352,17 @@ package body ada_main is
    end;
 
 --  BEGIN Object file/option list
-   --   /home/toto/Desktop/2do_Semestre/Lenguages_Progr/Ada/Alfredo/obj/exception_show.o
-   --   /home/toto/Desktop/2do_Semestre/Lenguages_Progr/Ada/Alfredo/obj/figures.o
-   --   /home/toto/Desktop/2do_Semestre/Lenguages_Progr/Ada/Alfredo/obj/string_type.o
-   --   /home/toto/Desktop/2do_Semestre/Lenguages_Progr/Ada/Alfredo/obj/types_example.o
-   --   /home/toto/Desktop/2do_Semestre/Lenguages_Progr/Ada/Alfredo/obj/ustrings.o
-   --   /home/toto/Desktop/2do_Semestre/Lenguages_Progr/Ada/Alfredo/obj/babble.o
-   --   /home/toto/Desktop/2do_Semestre/Lenguages_Progr/Ada/Alfredo/obj/parallel.o
-   --   /home/toto/Desktop/2do_Semestre/Lenguages_Progr/Ada/Alfredo/obj/main.o
-   --   -L/home/toto/Desktop/2do_Semestre/Lenguages_Progr/Ada/Alfredo/obj/
-   --   -L/home/toto/Desktop/2do_Semestre/Lenguages_Progr/Ada/Alfredo/obj/
+   --   /home/ricardo/Documents/Lenguajes programacion/Ada_Polynomials/Alfredo/obj/exception_show.o
+   --   /home/ricardo/Documents/Lenguajes programacion/Ada_Polynomials/Alfredo/obj/figures.o
+   --   /home/ricardo/Documents/Lenguajes programacion/Ada_Polynomials/Alfredo/obj/string_type.o
+   --   /home/ricardo/Documents/Lenguajes programacion/Ada_Polynomials/Alfredo/obj/types_example.o
+   --   /home/ricardo/Documents/Lenguajes programacion/Ada_Polynomials/Alfredo/obj/ustrings.o
+   --   /home/ricardo/Documents/Lenguajes programacion/Ada_Polynomials/Alfredo/obj/babble.o
+   --   /home/ricardo/Documents/Lenguajes programacion/Ada_Polynomials/Alfredo/obj/input_output.o
+   --   /home/ricardo/Documents/Lenguajes programacion/Ada_Polynomials/Alfredo/obj/parallel.o
+   --   /home/ricardo/Documents/Lenguajes programacion/Ada_Polynomials/Alfredo/obj/main.o
+   --   -L/home/ricardo/Documents/Lenguajes programacion/Ada_Polynomials/Alfredo/obj/
+   --   -L/home/ricardo/Documents/Lenguajes programacion/Ada_Polynomials/Alfredo/obj/
    --   -L/usr/gnat/lib/gcc/x86_64-pc-linux-gnu/6.3.1/adalib/
    --   -static
    --   -lgnarl
