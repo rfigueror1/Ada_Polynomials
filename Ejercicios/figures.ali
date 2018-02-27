@@ -1,0 +1,111 @@
+V "GNAT Lib v4.9"
+P SS ZX
+
+RN
+RV NO_DISPATCH
+RV NO_DISPATCHING_CALLS
+RV NO_FLOATING_POINT
+RV NO_IO
+RV NO_IMPLICIT_CONDITIONALS
+RV NO_SECONDARY_STACK
+RV NO_STANDARD_STORAGE_POOLS
+RV NO_DEFAULT_INITIALIZATION
+RV NO_ELABORATION_CODE
+RV SPARK_05
+
+U figures%b		figures.adb		942b15d6 NE OO PK
+W ada%s			ada.ads			ada.ali
+W ada.float_text_io%s	a-flteio.ads		a-flteio.ali
+W ada.tags%s		a-tags.adb		a-tags.ali
+W ada.text_io%s		a-textio.adb		a-textio.ali
+
+U figures%s		figures.ads		aba09fee EE OO PF PK
+W ada.exceptions%s	a-except.adb		a-except.ali
+W ada.streams%s		a-stream.adb		a-stream.ali
+W ada.tags%s		a-tags.adb		a-tags.ali
+W system%s		system.ads		system.ali
+W system.secondary_stack%s  s-secsta.adb	s-secsta.ali
+W system.storage_elements%s  s-stoele.adb	s-stoele.ali
+W system.stream_attributes%s  s-stratt.adb	s-stratt.ali
+
+D ada.ads		20070406091342 3ffc8e18
+D a-except.ads		20140129161953 f86a4103
+D a-finali.ads		20111121113555 52ecdc1b
+D a-flteio.ads		20070406091342 e18a47a0
+D a-ioexce.ads		20140225151544 e4a01f64
+D a-stream.ads		20140122164720 1a984740
+D a-tags.ads		20111212115430 6c0509d0
+D a-textio.ads		20140129155348 386df5d4
+D a-tiflio.ads		20090409150019 56fbda09
+D a-unccon.ads		20070406091342 f9eb8f06
+D figures.ads		20180224223711 aba09fee
+D figures.adb		20180224223937 e66c384c
+D interfac.ads		20140225151838 69adb1b9
+D i-cstrea.ads		20130412125801 8128536b
+D system.ads		20160213141829 90249111
+D s-crtl.ads		20140225151544 840e6817
+D s-exctab.ads		20140225151139 54135002
+D s-ficobl.ads		20120709130952 55a71d43
+D s-finmas.ads		20140225151139 814daec4
+D s-finroo.ads		20120426095924 4ff27390
+D s-parame.ads		20140225151139 ab8cb46a
+D s-pooglo.ads		20110804083314 542f33d0
+D s-secsta.ads		20140225151139 86a2856d
+D s-soflin.ads		20140225151139 aa763b52
+D s-stache.ads		20140225151139 a37c21ec
+D s-stalib.ads		20140225151139 a891183f
+D s-stoele.ads		20140225151139 2dc34a04
+D s-stoele.adb		20140225151139 ed88f8fb
+D s-stopoo.ads		20131010103753 b16154c2
+D s-stratt.ads		20131014135145 aedef97e
+D s-traent.ads		20140225151139 b5116092
+D s-unstyp.ads		20140225151139 510692af
+D s-wchcon.ads		20140225151139 1b7d22d2
+X 1 ada.ads
+16K9*Ada 19e8 12|1r6 1r25 2r5 2r24
+X 4 a-flteio.ads
+20K13*Float_Text_IO[9|45] 12|1w10 2r9
+X 8 a-textio.ads
+49K13*Text_IO 471e16 12|1w29 2r28
+166U14*New_Line 12|12s4 21s4
+242U14*Put 12|8s4 17s4 72s7 74s7 76s7 78s7
+X 9 a-tiflio.ads
+67U14*Put 12|11s4[4|20] 20s4[4|20]
+X 11 figures.ads
+1K9*Figures 42l5 42e12 12|4b14 82l5 82t12
+4R6*Point 7e13 11r15
+6f7*X{float}
+6f10*Y{float}
+9R7*Figure 12e14 14p11 14r23 15p11 15r29 18r21 26r24 37r29 38r34 12|6r32
+. 15r37 25r25 31r30
+11r7*Start{4R6}
+14V11*Area{float} 14>17 12|11R9 25b13 29l8 29t12
+14r17 F{9R7} 12|25b19
+15V11*Perimeter{float} 15>22 12|20R9 31b13 35l8 35t17
+15r22 F{9R7} 12|31b24
+18R7*Circle<9R7> 21e14 22P11 22r23 23P11 23r28 12|37r25 44r30 67r18
+20f7*Radius{float} 12|40r26 40r37 47r37 69m17
+22V11*Area{float}<14p11> 22>17 12|37b13 42l8 42t12
+22r17 C{18R7} 12|37b19 40r24 40r35
+23V11*Perimeter{float}<15p11> 23>22 12|44b13 49l8 49t17
+23r22 C{18R7} 12|44b24 47r35
+26R7*Rectangle<9R7> 30e14 31P11 31r23 32P11 32r28 12|51r25 58r30 66r21
+28f6*Width{float} 12|54r17 61r30 70m20
+29f7*Height{float} 12|54r27 61r40 71m20
+31V11*Area{float}<14p11> 31>17 12|51b13 56l8 56t12
+31r17 R{26R7} 12|51b19 54r15 54r25
+32V11*Perimeter{float}<15p11> 32>22 12|58b13 63l8 63t17
+32r22 R{26R7} 12|58b24 61r28 61r38
+37U11*Print_Area 37>22 12|6b14 13l8 13t18 73s7 75s7
+37c22 F<9R7> 12|6b25 11r14
+38U11*Print_Perimetro 38>27 12|15b14 22l8 22t23 77s7 79s7
+38c27 F<9R7> 12|15b30 20r19
+40U11*Main_Figures 12|65b14 80l8 80t20
+X 12 figures.adb
+38f7 area{float} 40m7 41r14
+45f7 perimeter{float} 47m7 48r14
+52f7 area{float} 54m7 55r14
+59f7 perimeter{float} 61m7 62r14
+66r7 rectangulito{11|26R7} 70m7 71m7 73r18 77r23
+67r7 circulito{11|18R7} 69m7 75r18 79r23
+
