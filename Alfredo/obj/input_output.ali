@@ -38,8 +38,8 @@ D a-strunb.ads		20170516105950 ecdfa332 ada.strings.unbounded%s
 D a-tags.ads		20170516105955 d3a89129 ada.tags%s
 D a-textio.ads		20170516105955 386df5d4 ada.text_io%s
 D a-unccon.ads		20170516105954 31484697 ada.unchecked_conversion%s
-D input_output.ads	20180225203013 e935f002 input_output%s
-D input_output.adb	20180225203023 8da740fe input_output%b
+D input_output.ads	20180226091844 e935f002 input_output%s
+D input_output.adb	20180226091844 8da740fe input_output%b
 D interfac.ads		20170516105950 5ab55268 interfaces%s
 D i-cstrea.ads		20170516105950 e53d8b8e interfaces.c_streams%s
 D system.ads		20170516105953 6326c08a system%s
@@ -62,7 +62,7 @@ D s-traent.ads		20170516105950 005bf670 system.traceback_entries%s
 D s-unstyp.ads		20170516105953 34867c83 system.unsigned_types%s
 D s-wchcon.ads		20170516105954 1b7d22d2 system.wch_con%s
 D text_io.ads		20170516105954 21b2c898 text_io%s
-D ustrings.ads		20180225184935 ecee25fa ustrings%s
+D ustrings.ads		20180224193118 ecee25fa ustrings%s
 X 1 ada.ads
 16K9*Ada 20e8 14|1r6 2r5 15|1r6 1r23 2r6 3r5 10r24 20r22
 X 8 a-string.ads

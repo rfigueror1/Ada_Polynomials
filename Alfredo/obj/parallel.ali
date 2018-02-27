@@ -44,12 +44,12 @@ D a-strunb.ads		20170516105950 ecdfa332 ada.strings.unbounded%s
 D a-tags.ads		20170516105955 d3a89129 ada.tags%s
 D a-textio.ads		20170516105955 386df5d4 ada.text_io%s
 D a-unccon.ads		20170516105954 31484697 ada.unchecked_conversion%s
-D babble.ads		20180225184935 cebf18f2 babble%s
+D babble.ads		20180224192621 cebf18f2 babble%s
 D interfac.ads		20170516105950 5ab55268 interfaces%s
 D i-c.ads		20170516105948 5421119b interfaces.c%s
 D i-cstrea.ads		20170516105950 e53d8b8e interfaces.c_streams%s
-D parallel.ads		20180225184935 ca44e2aa parallel%s
-D parallel.adb		20180225184935 b1dbb6e2 parallel%b
+D parallel.ads		20180224210020 ca44e2aa parallel%s
+D parallel.adb		20180224210029 b1dbb6e2 parallel%b
 D system.ads		20170516105953 6326c08a system%s
 D s-atacco.ads		20170516105954 4c36d12f system.address_to_access_conversions%s
 D s-atocou.ads		20170516105956 b45c2d8d system.atomic_counters%s
@@ -84,7 +84,7 @@ D s-traent.ads		20170516105950 005bf670 system.traceback_entries%s
 D s-unstyp.ads		20170516105953 34867c83 system.unsigned_types%s
 D s-wchcon.ads		20170516105954 1b7d22d2 system.wch_con%s
 D text_io.ads		20170516105954 21b2c898 text_io%s
-D ustrings.ads		20180225184935 ecee25fa ustrings%s
+D ustrings.ads		20180224193118 ecee25fa ustrings%s
 X 15 babble.ads
 2K9*Babble 6e11 20|1w6 2r5
 3T14*Babbler 5e15 20|6r16 7r15

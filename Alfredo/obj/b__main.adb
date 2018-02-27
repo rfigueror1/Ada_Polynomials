@@ -352,17 +352,17 @@ package body ada_main is
    end;
 
 --  BEGIN Object file/option list
-   --   /home/ricardo/Documents/Lenguajes programacion/Ada_Polynomials/Alfredo/obj/exception_show.o
-   --   /home/ricardo/Documents/Lenguajes programacion/Ada_Polynomials/Alfredo/obj/figures.o
-   --   /home/ricardo/Documents/Lenguajes programacion/Ada_Polynomials/Alfredo/obj/string_type.o
-   --   /home/ricardo/Documents/Lenguajes programacion/Ada_Polynomials/Alfredo/obj/types_example.o
-   --   /home/ricardo/Documents/Lenguajes programacion/Ada_Polynomials/Alfredo/obj/ustrings.o
-   --   /home/ricardo/Documents/Lenguajes programacion/Ada_Polynomials/Alfredo/obj/babble.o
-   --   /home/ricardo/Documents/Lenguajes programacion/Ada_Polynomials/Alfredo/obj/input_output.o
-   --   /home/ricardo/Documents/Lenguajes programacion/Ada_Polynomials/Alfredo/obj/parallel.o
-   --   /home/ricardo/Documents/Lenguajes programacion/Ada_Polynomials/Alfredo/obj/main.o
-   --   -L/home/ricardo/Documents/Lenguajes programacion/Ada_Polynomials/Alfredo/obj/
-   --   -L/home/ricardo/Documents/Lenguajes programacion/Ada_Polynomials/Alfredo/obj/
+   --   /home/toto/Desktop/2do_Semestre/Lenguages_Progr/Ada/Ada_Polynomials/Alfredo/obj/exception_show.o
+   --   /home/toto/Desktop/2do_Semestre/Lenguages_Progr/Ada/Ada_Polynomials/Alfredo/obj/figures.o
+   --   /home/toto/Desktop/2do_Semestre/Lenguages_Progr/Ada/Ada_Polynomials/Alfredo/obj/string_type.o
+   --   /home/toto/Desktop/2do_Semestre/Lenguages_Progr/Ada/Ada_Polynomials/Alfredo/obj/types_example.o
+   --   /home/toto/Desktop/2do_Semestre/Lenguages_Progr/Ada/Ada_Polynomials/Alfredo/obj/ustrings.o
+   --   /home/toto/Desktop/2do_Semestre/Lenguages_Progr/Ada/Ada_Polynomials/Alfredo/obj/babble.o
+   --   /home/toto/Desktop/2do_Semestre/Lenguages_Progr/Ada/Ada_Polynomials/Alfredo/obj/input_output.o
+   --   /home/toto/Desktop/2do_Semestre/Lenguages_Progr/Ada/Ada_Polynomials/Alfredo/obj/parallel.o
+   --   /home/toto/Desktop/2do_Semestre/Lenguages_Progr/Ada/Ada_Polynomials/Alfredo/obj/main.o
+   --   -L/home/toto/Desktop/2do_Semestre/Lenguages_Progr/Ada/Ada_Polynomials/Alfredo/obj/
+   --   -L/home/toto/Desktop/2do_Semestre/Lenguages_Progr/Ada/Ada_Polynomials/Alfredo/obj/
    --   -L/usr/gnat/lib/gcc/x86_64-pc-linux-gnu/6.3.1/adalib/
    --   -static
    --   -lgnarl

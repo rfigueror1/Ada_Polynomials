@@ -66,8 +66,8 @@ D s-traent.ads		20170516105950 005bf670 system.traceback_entries%s
 D s-unstyp.ads		20170516105953 34867c83 system.unsigned_types%s
 D s-wchcon.ads		20170516105954 1b7d22d2 system.wch_con%s
 D text_io.ads		20170516105954 21b2c898 text_io%s
-D ustrings.ads		20180225184935 ecee25fa ustrings%s
-D ustrings.adb		20180225184935 5c5ab60f ustrings%b
+D ustrings.ads		20180224193118 ecee25fa ustrings%s
+D ustrings.adb		20180224193118 5c5ab60f ustrings%b
 X 1 ada.ads
 16K9*Ada 20e8 38|1r15 2r15
 X 8 a-string.ads

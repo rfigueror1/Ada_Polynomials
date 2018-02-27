@@ -28,8 +28,8 @@ D a-textio.ads		20170516105955 386df5d4 ada.text_io%s
 D a-unccon.ads		20170516105954 31484697 ada.unchecked_conversion%s
 D interfac.ads		20170516105950 5ab55268 interfaces%s
 D i-cstrea.ads		20170516105950 e53d8b8e interfaces.c_streams%s
-D string_type.ads	20180225184935 da928810 string_type%s
-D string_type.adb	20180225184935 4aec0fc8 string_type%b
+D string_type.ads	20180224213500 da928810 string_type%s
+D string_type.adb	20180224214246 4aec0fc8 string_type%b
 D system.ads		20170516105953 6326c08a system%s
 D s-crtl.ads		20170516105948 0ebbdb71 system.crtl%s
 D s-exctab.ads		20170516105954 54135002 system.exception_table%s
